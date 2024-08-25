@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank6387&label=Profile%20views&color=0e75b6&style=flat" alt="mayank6387" /> </p>
